@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardComponent Should work as expected 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "borderBottomColor": "#E9E9E9",
+      "borderBottomLeftRadius": 8,
+      "borderBottomRightRadius": 8,
+      "borderBottomWidth": 1,
+      "borderLeftColor": "#E9E9E9",
+      "borderLeftWidth": 1,
+      "borderRightColor": "#E9E9E9",
+      "borderRightWidth": 1,
+      "borderStyle": "solid",
+      "borderTopColor": "#E9E9E9",
+      "borderTopLeftRadius": 8,
+      "borderTopRightRadius": 8,
+      "borderTopWidth": 1,
+      "marginBottom": 7,
+      "marginTop": 7,
+      "paddingBottom": 7,
+      "paddingLeft": 7,
+      "paddingRight": 7,
+      "paddingTop": 7,
+    }
+  }
+>
+  <View />
+</View>
+`;

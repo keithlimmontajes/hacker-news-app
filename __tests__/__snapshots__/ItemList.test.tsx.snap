@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardComponent Should work as expected 1`] = `
+<View>
+  <View
+    style={
+      {
+        "backgroundColor": "white",
+        "borderBottomColor": "#E9E9E9",
+        "borderBottomLeftRadius": 8,
+        "borderBottomRightRadius": 8,
+        "borderBottomWidth": 1,
+        "borderLeftColor": "#E9E9E9",
+        "borderLeftWidth": 1,
+        "borderRightColor": "#E9E9E9",
+        "borderRightWidth": 1,
+        "borderStyle": "solid",
+        "borderTopColor": "#E9E9E9",
+        "borderTopLeftRadius": 8,
+        "borderTopRightRadius": 8,
+        "borderTopWidth": 1,
+        "marginBottom": 7,
+        "marginTop": 7,
+        "paddingBottom": 7,
+        "paddingLeft": 7,
+        "paddingRight": 7,
+        "paddingTop": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "hsla(0, 0%, 9%, 1)",
+          "fontFamily": "System",
+          "fontSize": 18,
+          "fontWeight": "500",
+          "paddingBottom": 5,
+          "paddingTop": 5,
+        }
+      }
+      suppressHighlighting={true}
+    />
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#FB651E",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      />
+    </View>
+    <Text
+      style={
+        {
+          "color": "hsla(0, 0%, 9%, 1)",
+          "fontFamily": "System",
+          "fontSize": 12,
+          "paddingTop": 5,
+        }
+      }
+      suppressHighlighting={true}
+    >
+      Author:
+       
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+            "fontSize": 14,
+          }
+        }
+        suppressHighlighting={true}
+      />
+    </Text>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 2,
+          "paddingTop": 18,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      >
+        ⧗ 
+        Invalid dateh
+         |
+      </Text>
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      >
+        ✰ scores: 
+         |
+      </Text>
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      >
+        ♡ 
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`ItemListComponent Should work as expected 1`] = `
+<View>
+  <View
+    style={
+      {
+        "backgroundColor": "white",
+        "borderBottomColor": "#E9E9E9",
+        "borderBottomLeftRadius": 8,
+        "borderBottomRightRadius": 8,
+        "borderBottomWidth": 1,
+        "borderLeftColor": "#E9E9E9",
+        "borderLeftWidth": 1,
+        "borderRightColor": "#E9E9E9",
+        "borderRightWidth": 1,
+        "borderStyle": "solid",
+        "borderTopColor": "#E9E9E9",
+        "borderTopLeftRadius": 8,
+        "borderTopRightRadius": 8,
+        "borderTopWidth": 1,
+        "marginBottom": 7,
+        "marginTop": 7,
+        "paddingBottom": 7,
+        "paddingLeft": 7,
+        "paddingRight": 7,
+        "paddingTop": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "hsla(0, 0%, 9%, 1)",
+          "fontFamily": "System",
+          "fontSize": 18,
+          "fontWeight": "500",
+          "paddingBottom": 5,
+          "paddingTop": 5,
+        }
+      }
+      suppressHighlighting={true}
+    />
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#FB651E",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      />
+    </View>
+    <Text
+      style={
+        {
+          "color": "hsla(0, 0%, 9%, 1)",
+          "fontFamily": "System",
+          "fontSize": 12,
+          "paddingTop": 5,
+        }
+      }
+      suppressHighlighting={true}
+    >
+      Author:
+       
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+            "fontSize": 14,
+          }
+        }
+        suppressHighlighting={true}
+      />
+    </Text>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 2,
+          "paddingTop": 18,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      >
+        ⧗ 
+        Invalid dateh
+         |
+      </Text>
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      >
+        ✰ scores: 
+         |
+      </Text>
+      <Text
+        style={
+          {
+            "color": "gray",
+            "fontFamily": "System",
+          }
+        }
+        suppressHighlighting={true}
+      >
+        ♡ 
+      </Text>
+    </View>
+  </View>
+</View>
+`;
