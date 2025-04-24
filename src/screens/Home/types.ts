@@ -7,11 +7,5 @@ export type ItemType = {
     score: string;
     by: string;
   };
-
-  // • Story title
-  // • Story URL
-  // • Story timestamp
-  // • Story score
-  // • Author id
-  // • Author karma score
+  index: number;
 };

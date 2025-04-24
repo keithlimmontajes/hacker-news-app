@@ -24,7 +24,7 @@ const HomeScreen = () => {
       <FlatList
         data={items ?? []}
         showsVerticalScrollIndicator={false}
-        renderItem={({item}) => <ItemList item={item} />}
+        renderItem={({item, index}) => <ItemList item={item} index={index}/>}
         ListEmptyComponent={
           !isFetching && !isFetchingDetails ? (
             <Text>No results found.</Text>

@@ -7,7 +7,7 @@ import {ItemType} from '../../screens/Home/types';
 import {useGetNewsAuthorQuery} from '../../services/news';
 import {useNavigation} from '@react-navigation/native';
 
-const ItemList = ({item}: ItemType) => {
+const ItemList = ({item, index}: ItemType) => {
   const {data: author} = useGetNewsAuthorQuery(item?.by);
   const navigation = useNavigation();
 
@@ -20,7 +20,8 @@ const ItemList = ({item}: ItemType) => {
 
         <TouchableOpacity
           // @ts-ignore
-          onPress={() => navigation.navigate('Details', {url: item?.url})}>
+          onPress={() => navigation.navigate('Details', {url: item?.url})}
+          testID={`link_button_${index}`}>
           <Text color={'#FB651E'}>{item?.url}</Text>
         </TouchableOpacity>
 
